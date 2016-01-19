@@ -1,0 +1,106 @@
+[
+    { 
+        "name" : "Argovie",
+        "value": "AG"
+    },
+    { 
+        "name" : "Appenzell Rhodes-Intérieures",
+        "value": "AI"
+    },
+    { 
+        "name" : "Appenzell Rhodes-Extérieures",
+        "value": "AR"
+    },
+    { 
+        "name" : "Berne",
+        "value": "BE"
+    },
+    { 
+        "name" : "Bâle-Campagne",
+        "value": "BL"
+    },
+    { 
+        "name" : "Bâle-Ville",
+        "value": "BI"
+    },
+    { 
+        "name" : "Fribourg",
+        "value": "FR"
+    },
+    { 
+        "name" : "Genève",
+        "value": "GE"
+    },
+    { 
+        "name" : "Glaris",
+        "value": "GL"
+    },
+    { 
+        "name" : "Grisons",
+        "value": "GR"
+    },
+    { 
+        "name" : "Jura",
+        "value": "JU"
+    },
+    { 
+        "name" : "Lucerne",
+        "value": "LU"
+    },
+    { 
+        "name" : "Neuchâtel",
+        "value": "NE"
+    },
+    { 
+        "name" : "Nidwald",
+        "value": "NW"
+    },
+    { 
+        "name" : "Obwald",
+        "value": "OW"
+    },
+    { 
+        "name" : "Saint-Gall",
+        "value": "SG"
+    },
+    { 
+        "name" : "Schaffhouse",
+        "value": "SH"
+    },
+    { 
+        "name" : "Soleure",
+        "value": "SO"
+    },
+    { 
+        "name" : "Schwytz",
+        "value": "SZ"
+    },
+    { 
+        "name" : "Thurgovie",
+        "value": "TG"
+    },
+    { 
+        "name" : "Tessin",
+        "value": "TI"
+    },
+    { 
+        "name" : "Uri",
+        "value": "UR"
+    },
+    { 
+        "name" : "Vaud",
+        "value": "VD"
+    },
+    { 
+        "name" : "Valais",
+        "value": "VS"
+    },
+    { 
+        "name" : "Zoug",
+        "value": "ZG"
+    },
+    { 
+        "name" : "Zurich",
+        "value": "ZH"
+    }
+]
